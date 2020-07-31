@@ -8,3 +8,5 @@ Download [Question Set](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHP
 2. [DBMS commonly asked Set1](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions/?ref=rp)
 3. [DBMS commonly asked Set2](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions-set-2/?ref=rp)
 
+## Want to contribute?
+Feel free to check out issues.

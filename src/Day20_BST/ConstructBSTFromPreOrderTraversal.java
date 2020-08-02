@@ -4,6 +4,9 @@ import java.util.Stack;
 
 public class ConstructBSTFromPreOrderTraversal {
 
+    // time complexity : O(N)
+    // space complexity : O(N)
+
     public void solve(int preorder[]) {
         Node tree = iterative(preorder);
     }
